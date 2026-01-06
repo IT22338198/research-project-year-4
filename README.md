@@ -64,7 +64,8 @@ The SmartTea system follows a **client–server architecture** integrated with A
 - **External APIs**  
   Provide real-time weather and tea market-related data.
 
-📌 *Refer to the Architecture Diagram image included in the repository for a visual representation.*
+![SmartTea Architecture]([https://example.com/architecture.png](https://drive.google.com/file/d/1dNVYJ5_N0HIU0YFyFpKNhapJH9xbFQpo/view?usp=drive_link))
+
 
 ---
 
